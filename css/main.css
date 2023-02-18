@@ -41,7 +41,8 @@ header h1 {
 
 nav {
     float: right;
-    padding: 75px 25px;
+    padding: 75px 25px 75px 0px;
+    width: 800px;
 }
 
 nav ul li {
